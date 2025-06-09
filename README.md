@@ -1,4 +1,4 @@
-https://revanth123-cyber.github.io/expense-tracker/
+
 #this is the hosted link
 
 # React + Vite
