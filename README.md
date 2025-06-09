@@ -1,5 +1,4 @@
 
-#this is the hosted link
 
 # React + Vite
 
